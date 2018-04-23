@@ -9,6 +9,9 @@ import retrofit2.http.GET
 import retrofit2.converter.moshi.MoshiConverterFactory
 import retrofit2.Retrofit
 import android.os.StrictMode
+import android.support.v7.widget.DividerItemDecoration
+
+
 
 
 interface MoviesService {
