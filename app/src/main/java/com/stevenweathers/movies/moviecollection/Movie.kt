@@ -14,7 +14,7 @@ data class Movie(
 )
 
 data class Movies(
-    val movies: ArrayList<Movie>
+    val movies: List<Movie>
 )
 
 class MoviesResponse (
