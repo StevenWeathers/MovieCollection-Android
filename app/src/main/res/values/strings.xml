@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieCollection</string>
+    <string name="no_data_available">No Movies to display</string>
+</resources>
